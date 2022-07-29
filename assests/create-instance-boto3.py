@@ -7,9 +7,7 @@ ec2 = boto3.resource(
 instances = ec2.create_instances(
     ImageId='ami-0aeb7c931a5a61206',
     InstanceType='t2.micro',
-    InstanceName='New-Instance',
     KeyName='awskeypair',
     MinCount=1,
     MaxCount=1
-
 )
