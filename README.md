@@ -3,7 +3,7 @@
 
 ## Short Description 
 
-This template will you the flavour of boto3 where you will find how to get the names or list of buckets and EC2 instances without using UI of AWS. 
+This template will you the flavour of boto3 where you will find how to get the names or list of buckets and EC2 instances without using UI of AWS.
 
 ## Getting Started with Installation
 
